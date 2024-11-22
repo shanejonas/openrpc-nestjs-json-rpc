@@ -5,7 +5,7 @@ A JSON-RPC microservice strategy implementation for NestJS.
 
 Currently uses HTTP as the transport layer, with plans to add other options as the need arises.
 
-This is a fork of [nestjs-json-rpc](https://github.com/hfour/nestjs-json-rpc) with the addition of Zod validation and updated dependencies.
+This is a fork of [nestjs-json-rpc](https://github.com/hfour/nestjs-json-rpc) with the addition of Zod validation and updated dependencies to work with the latest NestJS version.
 
 ## Install
 
