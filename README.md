@@ -1,17 +1,15 @@
-# nestjs-json-rpc
-
-[Docs](https://github.com/hfour/nestjs-json-rpc/wiki/Documentation) |
-[Contributing](https://github.com/hfour/nestjs-json-rpc/wiki/Contributing) |
-[Wiki](https://github.com/hfour/nestjs-json-rpc/wiki) |
+# openrpc-nestjs-json-rpc
 [MIT Licensed](LICENSE.md)
 
 A JSON-RPC microservice strategy implementation for NestJS.
 
 Currently uses HTTP as the transport layer, with plans to add other options as the need arises.
 
+This is a fork of [nestjs-json-rpc](https://github.com/hfour/nestjs-json-rpc) with the addition of Zod validation and updated dependencies.
+
 ## Install
 
-`yarn add @hfour/nestjs-json-rpc`
+`yarn add openrpc-nestjs-json-rpc`
 
 ## Usage example
 
