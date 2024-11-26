@@ -1,6 +1,6 @@
 {
   "name": "openrpc-nestjs-json-rpc",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "OpenRPC JSON-RPC module for NestJS framework",
   "repository": "https://github.com/shanenojas/openrpc-nestjs-json-rpc",
   "authors": [
