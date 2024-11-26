@@ -25,7 +25,7 @@ const transformPropertiesToParams = (
   const params = Object.entries(properties).map(([key, value]) => {
     return {
       name: key,
-      required: (schema as any).required.includes(key) || undefined,
+      required: (schema as any).required?.includes(key) || undefined,
       schema: value,
     };
   });
